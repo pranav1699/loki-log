@@ -1,0 +1,6 @@
+2022-03-16 16:45:44,885 This is a debug log
+2022-03-16 16:45:44,885 This is a warning log
+2022-03-16 16:45:44,885 This is an info log
+2022-03-16 16:45:44,885 This is an error log
+2022-03-16 16:45:44,885 This is an exception log
+NoneType: None
